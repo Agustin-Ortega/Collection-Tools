@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ListasOrdenadas"/>
+	<classpathentry kind="src" path="Pilas"/>
+	<classpathentry kind="src" path="Colas"/>
+	<classpathentry kind="src" path="Implementaciones_ORT"/>
+	<classpathentry kind="src" path="InterfacesDeCollection"/>
+	<classpathentry kind="src" path="Tools"/>
+	<classpathentry kind="src" path="HashMap"/>
+	<classpathentry kind="src" path="PatronesDeComportamiento"/>
+	<classpathentry kind="src" path="PatronesDeCreacion"/>
+	<classpathentry kind="src" path="PatronesDeEstructura"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
